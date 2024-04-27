@@ -1,1 +1,1 @@
-# dailtyupdatebot
+# dailyupdatebot
